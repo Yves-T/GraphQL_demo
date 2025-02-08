@@ -1,5 +1,10 @@
 # GraphQL demo
 
+## Setup
+
+- Run `pnpm install`
+- Run `pnpm run dev`
+
 ## Example queries
 
 Go to [localhost](http://localhost:4000) to open the GraphQl sandbox
